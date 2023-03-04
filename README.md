@@ -12,8 +12,7 @@ You can find the course description and labs [here](http://nil.csail.mit.edu/6.8
 - [x] **Lab1 (MapReduce)**
 	- [x] Implementation of Distributed Map Reduce
 	- [x] Handle crash of workers
-	- [x] [System working documentation](https://github.com/nisarg1499/MIT-6.824-Labs/blob/main/docs_solutions/lab1-Distributed_Map_Reduce/Documentation_map_reduce.md) 
-
+	- [x] System working documentation
 
 - [ ] **Lab2 (Raft Consensus Algorithm)**
 	- [x] Implementation of Lab2A (Leader election)
